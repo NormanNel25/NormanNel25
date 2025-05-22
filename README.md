@@ -4,6 +4,7 @@
 Welcome to my e-portfolio! In this repository will showcase my academic journey, professional experience, technical skills and projects as a full-time employed networking student!
 
 This will include: 
+
 ![hmm](AD86DaAVXm.gif)
 
 1. Career Planning & Development
