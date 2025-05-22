@@ -5,7 +5,7 @@ Welcome to my e-portfolio! In this repository will showcase my academic journey,
 
 This will include: 
 
-![hmm](AD86DaAVXm.gif)
+![](AD86DaAVXm.gif)
 
 1. Career Planning & Development
 2. Technical skills & Professional interests
