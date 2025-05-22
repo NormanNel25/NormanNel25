@@ -5,12 +5,10 @@ Welcome to my e-portfolio! In this repository will showcase my academic journey,
 
 This will include: 
 
-![](AD86DaAVXm.gif)
-
 1. Career Planning & Development
 2. Technical skills & Professional interests
 3. Personality assessment (Work-Style Fit)
 4. Professional Branding (CV Creation)
 5. Job Application Strategy (CV Submission)
 
-
+![](AD86DaAVXm.gif)
